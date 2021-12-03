@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Sun Nov 21 15:11:46 CST 2021
+3.set=ASSET
+3.path=assetsimage.jpg
+2.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=lib/arm64-v8a/libimagepipeline.so
+5.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.baseType=DIRECTORY
+0.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\merged_assets\\debug\\out
+6.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+5.path=lib/x86/libimagepipeline.so
+3.baseType=DIRECTORY
+1.path=lib/armeabi/libimagepipeline.so
+4.set=DEX
+0.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
+5.baseType=DIRECTORY
+6.set=NATIVE_RESOURCE
+4.path=classes.dex
+count=8
+5.set=NATIVE_RESOURCE
+7.path=lib/armeabi-v7a/libimagepipeline.so
+1.set=NATIVE_RESOURCE
+2.path=classes.dex
+2.baseType=DIRECTORY
+2.set=DEX
+7.baseType=DIRECTORY
+1.baseType=DIRECTORY
+7.set=NATIVE_RESOURCE
+7.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+1.base=C\:\\Users\\Lc\\Desktop\\Chapter7-master\\AndroidStudy\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+6.path=lib/x86_64/libimagepipeline.so
